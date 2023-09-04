@@ -1,0 +1,19 @@
+{
+  "name": "myfirstvue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+	    "dev": "vite",
+	    "build": "vite build"  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9"
+  }
+}
