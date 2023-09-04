@@ -1,3 +1,10 @@
+To use this template
+clone the package  : https://github.com/avirads/vue3-vite-starter.git
+pnpm install
+pnpm run dev
+
+To create this template from scratch , the below steps were used:
+
 Create a folder with the project name
 cd into the folder
 pnpm init
