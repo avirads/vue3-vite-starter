@@ -115,6 +115,15 @@ defineProps({
 
 <style scoped>
 
+
+To add support for tresjs and cientos
+
+pnpm add three @tresjs/core
+pnpm add @types/three -D
+pnpm add tweakpane
+pnpm add @tresjs/cientos
+	
+	
 </style>
 
 Execute pnpm run dev
